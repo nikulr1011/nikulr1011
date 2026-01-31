@@ -6,9 +6,7 @@
 I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](
 
 ## 🧰 Tech Stack
 **Languages & Web:** Python, HTML5, CSS3, Java  
