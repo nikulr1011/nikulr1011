@@ -9,13 +9,12 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love b
 [![LinkedIn](
 
 ## 🧰 Tech Stack
-**Languages & Web:** Python, HTML5, CSS3, Java  
+**Languages & Web:** Python 
 **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI  
 **Servers & Frameworks:** Apache, Maven, NGINX, Jenkins, Tomcat  
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
 **Design & VCS:** Adobe, Canva, Git, GitHub, GitLab, Bitbucket  
 **Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher  
-**Build Tools:** Gradle
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikulr&show_icons=true&theme=radical)
