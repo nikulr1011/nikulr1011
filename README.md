@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Rakesh Nikule
 
-## Multi_Cloud_DevOps,  Cloud Architecture, Cloud Security & Complience, Information Security and IT Audit
+## Multi_Cloud_DevOps,  Cloud Architecture, Cloud Security, Information Security, IT Audit and GRC
 
 ## 🧠 About Me
 I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Security & Complience, Cloud Architecture. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
