@@ -6,7 +6,7 @@
 I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
 
 ## 🔗 Connect with Me
-[![LinkedIn](www.linkedin.com/in/rakesh-nikule-61b160a7)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.linkedin.com/in/rakesh-nikule-61b160a7)
 
 ## 🧰 Tech Stack
 **Languages & Web:** Python 
