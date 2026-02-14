@@ -14,7 +14,7 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Se
 **Servers & Frameworks:** Apache, Maven, NGINX, Jenkins, Tomcat  
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
 **Design & VCS:** Adobe, Canva, Git, GitHub, GitLab, Bitbucket  
-**Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher
+**Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher  
 **Security & GRC:** Cloud Security, Information Security, IT Audit  
 
 
