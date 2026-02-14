@@ -9,12 +9,13 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Se
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.linkedin.com/in/rakesh-nikule-61b160a7)
 
 ## 🧰 Tech Stack
-**Languages ** Python 
+****Languages:** Python, Linux 
 **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI  
 **Servers & Frameworks:** Apache, Maven, NGINX, Jenkins, Tomcat  
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
 **Design & VCS:** Adobe, Canva, Git, GitHub, GitLab, Bitbucket  
-**Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher  
+**Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher
+**Security & GRC:** GRC, Cloud Security, IT Audit, ISO
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
