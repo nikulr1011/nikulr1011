@@ -24,5 +24,5 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love b
 > — Danny Hillis
 
 ## 📌 Featured Repositories
-- 🔧 https://github.com/nikulr/MultiCloudDevOps
+- 🚀 [MultiCloudDevOps](https://github.com/nikulr/90DaysOfDevOps): Multi-Cloud-DevOps
 - 🚀 [90DaysOfDevOps](https://github.com/nikulr/90DaysOfDevOps): DevOps challenge for community growth
