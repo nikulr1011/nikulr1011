@@ -1,9 +1,9 @@
-# Rakesh-MultiCloud_DevOps
+# Rakesh-MultiCloud_DevOps, Cloud Security & Complience, Cloud Architecture
 
 # 👋 Hello, I'm Rakesh
 
 ## 🧠 About Me
-I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
+I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Security & Complience, Cloud Architecture. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.linkedin.com/in/rakesh-nikule-61b160a7)
